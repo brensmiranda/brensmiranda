@@ -4,7 +4,7 @@
 ### Olá, sou Brenda!   
                        
 
-  😁 Recifense, em transição de carreira, estudante de ADS e Backend {reprograma💜} 
+  😁 Recifense, em transição de carreira, graduanda em ADS e estudante Backend {reprograma💜} 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=brensmiranda&show_icons=true&theme=panda)
