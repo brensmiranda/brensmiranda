@@ -4,10 +4,15 @@
 ### Olá, sou Brenda!   
                        
 
-  😁 Recifense, estudante de análise e desenvolvimento de sistemas e Backend {REPROGRAMA💜} 
+  😁 Recifense, em transição de carreira, estudante de ADS e Backend {reprograma💜} 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=brensmiranda&show_icons=true&theme=panda)
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
+
 
 
 
@@ -16,3 +21,6 @@
 <p align="center">
   <img width="300" height="150" src="https://im4.ezgif.com/tmp/ezgif-4-5d7df22dac.gif">
 </p>
+
+
+
