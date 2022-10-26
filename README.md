@@ -1,4 +1,4 @@
-<h1 align="center">Hello, World! <br> I'm Brenda Miranda :two_hearts:	</h1>
+<h1 align="center">Hey there! <br> I'm Brenda Miranda :two_hearts:	</h1>
 
 <div align="center">
 <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brensmiranda&theme=tokyonight"/> 
