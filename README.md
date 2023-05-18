@@ -14,12 +14,7 @@
 
 
 
-<h6 align="center">  🌸 "Você não sabia? As mulheres têm que ser fortes para sobreviver!" 🌸
 
-<h6 align="center">
-  
-  <img width="300" height="150" src="https://c.tenor.com/Q9vIbSaQ93UAAAAC/sakura-haruno-naruto.gif">
-</p>
 
 
 
